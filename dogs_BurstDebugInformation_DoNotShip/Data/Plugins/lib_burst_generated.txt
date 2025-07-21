@@ -9,7 +9,6 @@ Library: /Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/
 --target-framework=NetFramework
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/dantz/Desktop/unity projects/dogs/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.43f1/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=/Users/dantz/Desktop/unity projects/dogs/Library/Burst
 --output=/Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/lib_burst_generated
@@ -35,7 +34,6 @@ Library: /Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/
 --target-framework=NetFramework
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/dantz/Desktop/unity projects/dogs/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.43f1/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=/Users/dantz/Desktop/unity projects/dogs/Library/Burst
 --output=/Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/lib_burst_generated
@@ -61,7 +59,6 @@ Library: /Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/
 --target-framework=NetFramework
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/dantz/Desktop/unity projects/dogs/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.43f1/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=/Users/dantz/Desktop/unity projects/dogs/Library/Burst
 --output=/Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/lib_burst_generated
@@ -177,7 +174,6 @@ Library: /Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/
 --target-framework=NetFramework
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/dantz/Desktop/unity projects/dogs/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.43f1/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=/Users/dantz/Desktop/unity projects/dogs/Library/Burst
 --output=/Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/lib_burst_generated
@@ -295,7 +291,6 @@ Library: /Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/
 --float-mode=Fast
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/dantz/Desktop/unity projects/dogs/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.43f1/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=/Users/dantz/Desktop/unity projects/dogs/Library/Burst
 --output=/Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/lib_burst_generated
@@ -315,7 +310,6 @@ Library: /Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/
 --float-mode=Fast
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/dantz/Desktop/unity projects/dogs/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.0.43f1/PlaybackEngines/LinuxStandaloneSupport
 --decode-folder=/Users/dantz/Desktop/unity projects/dogs/Library/Burst
 --output=/Users/dantz/Desktop/unity projects/dogs/Temp/BurstOutput/Data/Plugins/lib_burst_generated
